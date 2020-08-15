@@ -19,9 +19,9 @@ This is a mock data project. The job comes from McJager Consulting (MJC) proposi
 
 - Raw csv file
 
-<img src='images/raw.jpg' width="600" height="250" />
+<img src='images/raw.JPG' width="600" height="250" />
 
 - Final database
 
-<img src='images/db_properties.jpg' width="600" height="400" />
-<img src='images/db_data.jpg' width="600" height="400" />
+<img src='images/db_properties.JPG' width="600" height="400" />
+<img src='images/db_data.JPG' width="600" height="400" />
